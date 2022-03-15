@@ -1,0 +1,8 @@
+echo Compiling!
+echo .
+echo .
+echo .
+
+g++ -o outputcode test.cpp
+
+echo Compiling Complete!
