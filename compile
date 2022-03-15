@@ -1,6 +1,9 @@
 echo Compiling!
+sleep 1
 echo .
+sleep 1
 echo .
+sleep 1
 echo .
 
 g++ -o outputcode test.cpp
